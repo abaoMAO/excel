@@ -1,0 +1,19 @@
+.login-page{
+    /* background: url("../../components/img/login-bg.jpg") no-repeat center; */
+    background: rgba(0,0,0,0.4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.login-page .login-bg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+.login-form{
+    height: 400px;
+    width: 300px;
+}

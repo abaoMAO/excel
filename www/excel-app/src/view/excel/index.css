@@ -1,0 +1,7 @@
+.table-btn-group{
+    display: flex;
+    padding: 20px;
+}
+.table-btn-group>div{
+    margin-right: 20px;
+}

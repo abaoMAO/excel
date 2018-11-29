@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "excel",
+    "script": "production.js",
+    "cwd": "F:\object\my_obj\egg\excel",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
